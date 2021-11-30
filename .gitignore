@@ -56,6 +56,9 @@ ExportedObj/
 *.pdb.meta
 *.mdb.meta
 
+#Ignore DS_Store
+.DS_Store
+
 # Unity3D generated file on crash reports
 sysinfo.txt
 
